@@ -1,4 +1,4 @@
-name=input("what is your name")
+name=input("what is your name? ")
 height=float(input("what is your height"))
 weapons=int(input("how many weapons do you have?"))
 is_active=bool(input("enter true is yes or enter false if no"))
