@@ -32,6 +32,3 @@ reward_stars = total * star_per_point
 boxes = reward_stars // 25
  
 print("Final boxes packed :", boxes)
-
-
-
