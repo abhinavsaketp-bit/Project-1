@@ -24,7 +24,7 @@ if free_time=="yes":
     print("It's time for hobby time")
 else:
     final_task="planning time"
-    print("It is planning time")
+    print("It is planning time then")
 
 print("Temprature: ", temp)
 print("Activity chosen: ", activity)
