@@ -8,7 +8,7 @@ else:
     print("It is a cold day today and i will wear",outfit)
     print("The temprature is", temprature)
 is_raining=input("Is it raining? yes if it is or no:")
-if is_raining=="yes":
+if is_raining == "yes" :
     print("take an umbrala with you")
 windspeed=int(input("what is the windspeed?"))
 if windspeed>40:
