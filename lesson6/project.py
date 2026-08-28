@@ -25,10 +25,6 @@ if not book_due=="yes":
 
 
 
-
-
-
-
 if weather == "rainy" and book_due == "yes":
     print("Take your umbrella and that book better be on my today.")
 elif weather == "sunny" and book_due == "yes" and not (day in ("Saturday", "Sunday")):

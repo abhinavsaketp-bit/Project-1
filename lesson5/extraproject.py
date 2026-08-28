@@ -1,6 +1,6 @@
 name=input("what is your name? ")
 print(f"Welcome {name}") 
-input(f"what is your username {name} : ")
+username=input(f"what is your username {name} : ")
 marks=int(input("How many marks did you get in your examination?: "))
 
 if marks>90:
