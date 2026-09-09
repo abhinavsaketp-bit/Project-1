@@ -49,4 +49,8 @@ for i in range(1, half_rows):
         number += 1
  
     print()
+
+
+
+    print("SIR CAN YOU EXPLAIN ME THIS PROJECT IN THE NEXT CLASS PLEASE. I DID NOT UNDERSTAND THE LOGIC.")
  
