@@ -1,6 +1,6 @@
 def greet():
     name=input("Hello user, what is your name?")
-    print(f"Hello {name}, welcome to vending!")
+    print(f"Hello {name}, welcome to vending machine!")
 def ask():
     print("We sell four products.")
     print("1 for apple. This costs you 50")

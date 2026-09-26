@@ -10,6 +10,6 @@ except:
     print("There is an exception in the input.")
 
 finally:
-    print("This block is printing no matter what")
+    print("This block is printing no matter what because it is a finally block.")
 
 
