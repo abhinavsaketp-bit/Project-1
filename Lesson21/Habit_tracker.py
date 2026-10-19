@@ -32,7 +32,7 @@ for days in range(0,len(weekly_habits)):
 if finished>not_finished:
     print("Great progress!")
 elif not_finished>finished:
-    print("Try harder")
+    print("Try harder") 
 
         
 
