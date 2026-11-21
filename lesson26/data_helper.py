@@ -25,7 +25,7 @@ class PairFinder:
     def find_pair(self, numbers, target):
         lookup = {}
  
-        # enumerate() gives both index and value
+        
         for index, number in enumerate(numbers):
             needed_number = target - number
  
@@ -51,5 +51,3 @@ else:
  
 del session_obj
 print("Program End")
-
-    

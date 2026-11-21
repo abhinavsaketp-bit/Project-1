@@ -9,4 +9,3 @@ def Create_object():
 
 obj=Create_object()
 del obj 
-

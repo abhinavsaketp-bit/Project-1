@@ -20,4 +20,4 @@ print("{} is a {} and is {} year old.".format(pet1.name,pet1.animal,pet1.age))
 print("{} favourite food is {}.\n".format(pet1.name,pet1.favourite_food))
 
 print("{} is a {} and is {} year old.".format(pet2.name,pet2.animal,pet2.age))
-print("{} favourite food is {}.\n".format(pet2.name,pet2.favourite_food))
+print("{} favourite food is {}.\n".format(pet2.name,pet2.favourite_food))   
